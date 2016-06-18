@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<spawngroup xmlns="http://www.hybrasyl.com/XML/Creature">
+    <maps>
+        <map>Example Inn</map>
+    </maps>
+    <spawns>
+        <spawn base="Rat">
+            <respawn min="5" max="30" />
+            <damage min="5" max="25" element="fire" type="physical" />
+            <defense mr="0" ac="85" element="fire" />
+            <stats hp="250" />
+            <loot>
+                <table>
+                    <item>Stick</item>
+                    <gold min="10" max="100">
+                </table>
+            <loot>
+        </spawn>
+        <spawn base="Goat">
+            <respawn min="2" max="15" />
+            <damage min="15" max="35" element="fire" type="physical" />
+            <defense mr="1" ac="81" element="fire" />
+            <stats hp="500" />
+            <loot>
+                <table>
+                    <item>Stick</item>
+                    <gold min="50" max="100">
+                </table>
+            <loot>
+        </spawn>
+    </spawns>
+</spawngroup>

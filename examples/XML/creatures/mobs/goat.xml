@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<mob xmlns="http://www.hybrasyl.com/XML/Creature" sprite="20">
+    <name>Goat</name>
+    <description>Mountain-climbing monstrosity.</description>
+</mob>

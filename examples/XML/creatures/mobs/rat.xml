@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<mob xmlns="http://www.hybrasyl.com/XML/Creature" sprite="14">
+    <name>Rat</name>
+    <description>A large, mangy mouse.</description>
+</mob>
